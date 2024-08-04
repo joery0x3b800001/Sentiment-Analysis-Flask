@@ -1,4 +1,4 @@
 # ignore the venv and other files
 
 /venv/
-.DS_STORE
+.DS_Store
